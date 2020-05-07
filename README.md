@@ -1,2 +1,2 @@
-# go-clean-sqlserver-log
+# cleanlogMssql
 golang编写的定时清理sqlserver的日志的程序
